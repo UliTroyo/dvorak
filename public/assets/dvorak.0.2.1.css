@@ -16,6 +16,9 @@ body {
 main {
   display: grid;
   font-size: 1.5em;
-  max-width: 90vw;
   place-items: center;
+}
+
+svg {
+  max-width: 90vw;
 }
